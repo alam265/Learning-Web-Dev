@@ -1,0 +1,17 @@
+html {
+    font-size: 20px;        /* html is our root*/
+}
+
+#h1 {
+    font-size: 3rem;
+}
+#h2 {
+    font-size: 1.9rem;
+}
+
+#article {
+    font-size: 1rem;
+}
+#button {
+    font-size: 0.8rem;
+}
