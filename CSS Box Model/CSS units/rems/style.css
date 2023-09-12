@@ -1,17 +1,16 @@
 html {
-    font-size: 20px;        /* html is our root*/
+    font-size: 19px;        /* html is our root*/
 }
 
-#h1 {
-    font-size: 3rem;
-}
-#h2 {
-    font-size: 1.9rem;
-}
+
+
 
 #article {
     font-size: 1rem;
 }
 #button {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
 }
