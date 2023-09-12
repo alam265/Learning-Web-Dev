@@ -12,11 +12,18 @@ p{
     line-height: 1.5;
     
 }
-
+p::selection {
+    background-color: bisque;
+}
 a{
     text-decoration: none;
     color: dodgerblue;
     font-weight: bold;
+    
 
+}
+
+a:hover {
+    text-decoration: underline;
 }
 

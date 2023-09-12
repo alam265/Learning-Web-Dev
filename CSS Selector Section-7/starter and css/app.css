@@ -3,8 +3,8 @@ body{
 }
 
 button{
-    font-size: 16px;
-    background-color: #ff006e ;
+    font-size: 15px;
+    background-color: #67c2e3 ;
 }
 
 #signup{
@@ -49,8 +49,8 @@ input[type="password"] {
     text-decoration: underline;
 
 }
-.post:nth-of-type(2n){
-    background-color:darkgrey;
+.post:nth-of-type(2n+1){
+    background-color:rgb(135, 130, 128);
 }
 h2:first-letter{
     font-size: 50px;

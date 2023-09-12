@@ -1,0 +1,21 @@
+div {
+    width: 200px;
+    height: 183px;
+    background-color: #FFC8C8;
+}
+
+#one {
+    border: 5px solid black ;         /* width | style | color */
+    
+}
+
+#two {
+    border: 5px solid green ;        /* width | style | color */
+    border-left-style: dotted;
+}
+
+#three {
+    border: 5px solid #283618;
+    border-radius:  25% 10% ;
+    padding: 4%;
+}
