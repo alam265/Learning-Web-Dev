@@ -1,0 +1,90 @@
+
+#section1 #div1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(105, 226, 150);
+    border: 3px solid black;
+    display: inline-block;
+}
+#section1 #div2 {
+    width: 100px;
+    height: 100px;
+    background-color: blanchedalmond;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+    left:40px;
+    top: 20px;
+
+    
+}
+#section1 #div3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(111, 88, 214);
+    border: 3px solid black;
+    display: inline-block;
+    
+    
+}
+
+/*Section 2*/
+
+#section2 #div1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(105, 226, 150);
+    border: 3px solid black;
+    display: inline-block;
+}
+#section2 #div2 {
+    width: 100px;
+    height: 100px;
+    background-color: blanchedalmond;
+    border: 3px solid black;
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+}
+#section2 #div3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(111, 88, 214);
+    border: 3px solid black;
+    display: inline-block;
+    
+    
+}
+/*section 3*/
+#section3 #div1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(105, 226, 150);
+    border: 3px solid black;
+    display: inline-block;
+}
+#section3 #div2 {
+    width: 100px;
+    height: 100px;
+    background-color: blanchedalmond;
+    border: 3px solid black;
+    display: inline-block;
+    position:fixed;
+   
+    
+    
+    right: 700px;
+}
+#section3 #div3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(111, 88, 214);
+    border: 3px solid black;
+    display: inline-block;
+    
+    
+}
+
+
+
+
