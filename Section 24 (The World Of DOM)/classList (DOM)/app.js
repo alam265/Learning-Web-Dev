@@ -39,9 +39,7 @@ for (let i=0 ;i<lis.length ;i++){
 
 // DOMTokenList ['square', value: 'square']
 
-// x[1].classList.add
 
-// ƒ add() { [native code] }
 
 // x[1].classList.add('newClass')
 
