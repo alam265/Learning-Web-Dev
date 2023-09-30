@@ -11,7 +11,7 @@ for (let i=0 ;i<lis.length ;i++){
 
 // From Console (Adding class in a element)
 
-// querySelectorAll('img')
+// let x= querySelectorAll('img')
 
 // undefined
 
